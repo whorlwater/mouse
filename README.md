@@ -1,0 +1,4 @@
+mouse
+=====
+
+Solution for webmaze.
